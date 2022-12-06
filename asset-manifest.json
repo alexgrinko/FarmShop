@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/static/js/main.b34229c9.js",
+    "static/media/man.png": "/static/media/man.6936e8b283f2e5bef536.png",
+    "static/media/garbage.svg": "/static/media/garbage.bfc5dd9e0b18f7155f969fe9ed16941e.svg",
+    "static/media/farmer_logo.svg": "/static/media/farmer_logo.e9bedb5794f29de982f6875bb479bbba.svg",
+    "static/media/eco.svg": "/static/media/eco.3205352d594364728f5c0b9af1a2956e.svg",
+    "static/media/food.svg": "/static/media/food.9f700a8a251c6539920d1c2588a7386c.svg",
+    "static/media/no-meat.svg": "/static/media/no-meat.96f78eb52edcea293c847f8fbac21983.svg",
+    "index.html": "/index.html",
+    "main.b34229c9.js.map": "/static/js/main.b34229c9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b34229c9.js"
+  ]
+}
